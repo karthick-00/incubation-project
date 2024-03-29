@@ -1,0 +1,27 @@
+.cards-container {
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+  }
+  
+  .card {
+    text-align: center;
+    background-color: rgb(63, 216, 76);
+    border-radius: 20px;
+    width: 200px;
+    height: 250px;
+    padding: 30px;
+  }
+  
+.card img {
+    width: 40%;
+    border-radius: 5px;
+    margin-top: 50px;
+  }
+.card p {
+    margin-top: 60px;
+ }
+body{
+  background-color: #DFE2EC;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
