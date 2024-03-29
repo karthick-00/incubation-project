@@ -1,0 +1,45 @@
+.sto{
+    font-family: 'Times New Roman', Times, serif;
+}
+.bgim
+{
+background-repeat:repeat; 
+background-size: contain;
+height: 400px;
+width: 400px;
+}
+.bag
+{
+    background-image: url("https://ik.imagekit.io/vhry8kynr/360_F_554226902_eaFqOYLyeTMXY1RLHcVi6psKYdkSv4cF.jpg?updatedAt=1710781891536");
+    height: 350px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.rere{
+    background-color: #9ee6c1;
+    height: 320px;
+    width: 500px;
+}
+.cert{
+    background-color: #269A7E;
+    height: 100vh;
+    width: 100vw;
+    border-color: black;
+    border-radius: 16px;
+    border-width: 2px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 2px;    
+}
+.inbox{
+    background-color: #ececec;
+    height: 700px;
+    width: 700px;
+    border-color: hsl(133, 75%, 64%);
+    border-radius: 16px;
+    border-width: 2px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 2px; 
+}
